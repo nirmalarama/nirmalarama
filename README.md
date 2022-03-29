@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmalarama
+- 👋 Hi, I’m @nirmalarama - Nirmala Ramachandran
 - 👀 I’m interested in Saasi-fying solutions
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on DevOps Practices and SaaS.
